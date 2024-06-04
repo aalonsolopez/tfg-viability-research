@@ -47,4 +47,36 @@ The results of the Hello World program are the following:
 
 #### Docker container without WebAssembly
 
+- Image size: 1.38 GB
+
+![alt text](static/image.png)
+
+- Time to be ready: 519 ms
+- Time to complete the action: 1 ms
+
+![alt text](static/image2.png)
+
+#### Docker container with WebAssembly
+
+- Image size: 2,46 MB
+
+![alt text](static/image3.png)
+
+- Time to be ready: 842 ms
+- Time to complete the action: 47 ms
+
+![alt text](static/image4.png)
+
+#### Using Spin
+
+- Time to start: 306 miliseconds (estimate due to manual stop, it's actually less)
+
+```bash
+Serving http://127.0.0.1:3000
+Available Routes:
+  spin: http://127.0.0.1:3000 (wildcard)
+spin up  0,06s user 0,09s system 47% cpu 0,306 total
+```
+
+
 
