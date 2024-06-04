@@ -35,10 +35,16 @@ The methodology used is to measure two key parameters of using WebAssembly as a 
 
 The test are performed in three scenarios:
 
-- Docker container without webassembly (using the standard image in each folder)
+- Docker container without WebAssembly (using the standard image in each folder)
 - Docker Container with WebAssembly (using the wasm image in each folder)
 - Using Spin (a tool to run WebAssembly code)
 
+## Results
 
+### Hello World
+
+The results of the Hello World program are the following:
+
+#### Docker container without WebAssembly
 
 
