@@ -1,5 +1,5 @@
 
-FROM --platform=$BUILDPLATFORM rust:latest AS buildbase
+FROM --platform=$BUILDPLATFORM rust:1.61 AS buildbase
 WORKDIR /src
 RUN <<EOT bash
     set -ex

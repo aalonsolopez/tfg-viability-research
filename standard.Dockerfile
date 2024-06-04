@@ -1,4 +1,4 @@
-FROM rust:latest
+FROM rust:alpine3.19
 
 COPY . .
 

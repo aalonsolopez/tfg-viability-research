@@ -1,8 +1,8 @@
-[package]
-name = "tfg-viability-research"
-version = "0.1.0"
-edition = "2021"
+[workspace]
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+members = [
+    "1-hello-world/1-standard",
+    "1-hello-world/1-wasm",
+    "2-warp-api/2-standard",
+    "2-warp-api/2-wasm",
+]

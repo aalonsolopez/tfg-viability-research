@@ -3,5 +3,17 @@
 version = 3
 
 [[package]]
-name = "tfg-viability-research"
+name = "standard-hello"
+version = "0.1.0"
+
+[[package]]
+name = "standard-warp"
+version = "0.1.0"
+
+[[package]]
+name = "wasm-hello"
+version = "0.1.0"
+
+[[package]]
+name = "wasm-warp"
 version = "0.1.0"
