@@ -2,7 +2,8 @@
 
 members = [
     "1-hello-world/1-standard",
-    "1-hello-world/1-wasm", "1-hello-world/spin",
+    "1-hello-world/1-wasm",
+    "1-hello-world/spin",
     "2-warp-api/2-standard",
     "2-warp-api/2-wasm",
 ]

@@ -6,9 +6,6 @@ version = "0.1.0"
 authors = ["Alejandro Alonso López <aalonsopersonal@gmail.com>"]
 description = ""
 
-[[trigger.http]]
-route = "/..."
-component = "spin"
 
 [component.spin]
 source = "target/wasm32-wasi/release/spin.wasm"

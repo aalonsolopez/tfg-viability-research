@@ -1,0 +1,50 @@
+Running iteration 1
+Execution time: 194.206µs
+Container created in 672 miliseconds
+Run executed in 51 miliseconds
+------------------------------------------
+Running iteration 2
+Execution time: 157.518µs
+Container created in 614 miliseconds
+Run executed in 50 miliseconds
+------------------------------------------
+Running iteration 3
+Execution time: 163.175µs
+Container created in 619 miliseconds
+Run executed in 48 miliseconds
+------------------------------------------
+Running iteration 4
+Execution time: 186.986µs
+Container created in 549 miliseconds
+Run executed in 43 miliseconds
+------------------------------------------
+Running iteration 5
+Execution time: 227.078µs
+Container created in 591 miliseconds
+Run executed in 58 miliseconds
+------------------------------------------
+Running iteration 6
+Execution time: 241.216µs
+Container created in 602 miliseconds
+Run executed in 45 miliseconds
+------------------------------------------
+Running iteration 7
+Execution time: 173.74µs
+Container created in 704 miliseconds
+Run executed in 45 miliseconds
+------------------------------------------
+Running iteration 8
+Execution time: 158.236µs
+Container created in 564 miliseconds
+Run executed in 57 miliseconds
+------------------------------------------
+Running iteration 9
+Execution time: 92.716µs
+Container created in 555 miliseconds
+Run executed in 54 miliseconds
+------------------------------------------
+Running iteration 10
+Execution time: 209.742µs
+Container created in 660 miliseconds
+Run executed in 60 miliseconds
+------------------------------------------

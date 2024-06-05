@@ -3,6 +3,7 @@
     "rust-analyzer.linkedProjects": [
         "1-hello-world/1-standard/Cargo.toml",
         "1-hello-world/1-wasm/Cargo.toml",
+        "1-hello-world/spin/Cargo.toml",
         "2-warp-api/2-standard/Cargo.toml",
         "2-warp-api/2-wasm/Cargo.toml",
     ]
